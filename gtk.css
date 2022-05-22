@@ -42,7 +42,7 @@ menu, .menu, .context-menu {
     
 .csd menu, .csd .menu, .csd .context-menu { 
   border: none; 
-  border-radius: 6px; 
+  border-radius: 12px; 
 }
   
 menu menuitem, .menu menuitem, .context-menu menuitem {
