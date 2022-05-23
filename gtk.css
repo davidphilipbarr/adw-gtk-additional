@@ -58,4 +58,6 @@ menubar menu, wxMenu   {
   border-radius: 12px
 }
 
-
+menu menuitem arrow, .menu menuitem arrow, .context-menu menuitem arrow {
+color: #c2c2c2;
+}
