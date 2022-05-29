@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Adwaita-Local
-Comment=The Only One
+Comment=Another One
 Example=folder
 Inherits=Adwaita,hicolor
 
@@ -21,7 +21,7 @@ PanelDefault=32
 PanelSizes=16,22,32,48,64,72,96,128
 
 # Directory list
-Directories=symbolic/actions,symbolic/apps
+Directories=symbolic/actions
 
 [symbolic/actions]
 Context=Actions
