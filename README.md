@@ -11,3 +11,5 @@ With additional:
 
 Normal:
 ![](./nautilus_without.png "Nautilus with only adw-gtk3")
+
+Thanks to https://github.com/mangini210 for the basis of this whole mess: https://github.com/lassekongo83/adw-gtk3/issues/100
